@@ -8,14 +8,6 @@
 
 ---
 
-## 🚀 About me
-
-💻 **Full Stack Developer** graduated in Systems Analysis and Development from FIAP  
-🎯 **Specialized in** High-code, Low-code and No-code solutions  
-📚 **Always learning** new technologies and best practices  
-
----
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
@@ -55,20 +47,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsoaresf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
