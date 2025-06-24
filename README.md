@@ -67,8 +67,6 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsoaresf&layout=compact&theme=tokyonight&hide_border=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gsoaresf&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
