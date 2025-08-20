@@ -1,33 +1,36 @@
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-> Transformando ideias em soluções digitais elegantes
+> Transforming ideas into elegant digital solutions
 
-Desenvolvedor Full Stack de 22 anos com 7 anos de experiência. Formado em ADS pela FIAP, especializado em **IA Generativa**, **IoT**, **Blockchain** e **Microsserviços**. 
+Full Stack Developer with 7 years of experience. 
 
-Combino desenvolvimento tradicional com ferramentas no-code como **Lovable** e **N8N**, utilizando **Claude Code** para desenvolvimento assistido por IA e **Supabase** como backend, integrando APIs modernas (**OpenAI**, **Anthropic**) para entregar soluções ágeis e inovadoras.
+I combine traditional programming with modern tools to deliver agile and innovative solutions.
 
-## 🎓 Formação & Certificações
+## 🎓 Education & Certifications
 
-**Graduação:**
-- Análise e Desenvolvimento de Sistemas - FIAP
+**Degree:**
+- Systems Analysis and Development - FIAP
 
-**Especialidades:**
+**Specialties:**
 - Full Stack Development (Web & Mobile)
-- IA Generativa & Chatbots Cognitivos  
-- IoT, Blockchain & Tecnologias Emergentes
-- Microsserviços & Domain Driven Design
+- Generative AI & Cognitive Chatbots  
+- IoT, Blockchain & Emerging Technologies
+- Microservices & Domain Driven Design
 - Cloud Computing & DevOps
 - No-Code/Low-Code Solutions
 
-**Certificações FIAP:**
-- Estratégia e Inovação Tecnológica com IA e IoT (2024)
-- Desenvolvimento de Aplicações Móveis (2024)
-- Desenvolvimento e Designer Web 2.0 (2023)
-- Análise de Sistemas e Prototipação Web (2023)
+**Current Studies:**
+- Blockchain & Smart Contracts
+- Ethereum & Web3 Development
+- Decentralized Development (DApps)
 
-<br>
+**FIAP Certifications:**
+- Strategy and Technological Innovation with AI and IoT (2024)
+- Mobile Application Development (2024)
+- Web 2.0 Development and Design (2023)
+- Systems Analysis and Web Prototyping (2023)
 
-## 🛠️ Ferramentas de Desenvolvimento
+## 🛠️ Development Tools
 
 <div align="center">
 
@@ -36,7 +39,7 @@ Combino desenvolvimento tradicional com ferramentas no-code como **Lovable** e *
 
 </div>
 
-## 💻 Tecnologias Mais Utilizadas
+## 💻 Most Used Technologies
 
 <div align="center">
 
@@ -68,28 +71,24 @@ Combino desenvolvimento tradicional com ferramentas no-code como **Lovable** e *
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### IA & APIs
+### AI & APIs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191724?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
 
-<br>
-
-
-
-## 🤝 Vamos nos Conectar
+## 🤝 Let's Connect
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://seu-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsoaresf@icloud.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsoaresf@icloud.com)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
