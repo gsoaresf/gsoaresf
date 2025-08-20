@@ -1,13 +1,3 @@
-# Olá! 👋 Eu sou o Gustavo
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=80&lines=Desenvolvedor+Full+Stack;Solucionador+de+Problemas;Entusiasta+de+Tecnologia)](https://git.io/typing-svg)
-  
-</div>
-
----
-
 ## 🚀 Sobre Mim
 
 > Transformando ideias em soluções digitais elegantes
@@ -67,18 +57,6 @@ Sou um desenvolvedor apaixonado que acredita em escrever código limpo, eficient
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://seu-portfolio.com)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  *"Código é como humor. Quando você tem que explicar, é ruim."* – Cory House
-  
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gsoaresf&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil)
   
 </div>
 
