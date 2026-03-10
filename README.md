@@ -1,13 +1,20 @@
+## 👋 About Me
+
+Full Stack Developer with 7 years of experience, focused on AI agents, fintech and rapid product development. I combine traditional engineering with modern AI tooling to ship fast.
+
 ## 🎓 Education & Certifications
 
 **Degree:**
 - Systems Analysis and Development - FIAP
-  
+
 **FIAP Certifications:**
 - Strategy and Technological Innovation with AI and IoT (2024)
 - Mobile Application Development (2024)
 - Web 2.0 Development and Design (2023)
 - Systems Analysis and Web Prototyping (2023)
+
+**Lovable Certifications:**
+- Vibe Coding L4: Platinum (2026)
 
 ## 🛠️ Development Tools
 
@@ -35,6 +42,7 @@
 ### Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
@@ -45,5 +53,12 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
 ![Tavily](https://img.shields.io/badge/Tavily-0066FF?style=for-the-badge&logoColor=white)
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soares-05710735b/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsoaresf@icloud.com)
 
 </div>
