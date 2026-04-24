@@ -1,58 +1,52 @@
-## 👋 About Me
+## 👋 Hi, I'm Gustavo
 
-Full Stack Developer with 7 years of experience, focused on AI agents, fintech and rapid product development. I combine traditional engineering with modern AI tooling to ship fast.
+Full Stack Developer shipping **AI agents for fintech** and rapid product development. 7 years of engineering experience, now combining it with modern AI tooling to move faster than ever.
 
-## 🎓 Education & Certifications
+- 🤖 Building production AI agents with Claude, LangGraph and CrewAI
+- 💳 Deep interest in fintech infrastructure and automation
+- ⚡ Rapid prototyping with Lovable, Supabase and Vite
+- 📫 Reach me at **gsoaresf@icloud.com**
 
-**Degree:**
-- Systems Analysis and Development - FIAP
+---
 
-**FIAP Certifications:**
-- Strategy and Technological Innovation with AI and IoT (2024)
-- Mobile Application Development (2024)
-- Web 2.0 Development and Design (2023)
-- Systems Analysis and Web Prototyping (2023)
+## 🚀 Featured Projects
 
-**Lovable Certifications:**
-- Vibe Coding L4: Platinum (2026)
+> _Pin your best repositories on your GitHub profile and they will show up right below this section._
 
-## 🛠️ Development Tools
+---
+
+## 🛠️ Stack
+
+**Frontend** — TypeScript · React · Tailwind · Vite · shadcn/ui · Radix UI
+**Backend** — Python · FastAPI · PostgreSQL · Supabase · Railway
+**AI & Agents** — Anthropic · LangChain · LangGraph · CrewAI · Tavily
+**Tooling** — Claude Code · Cursor · Lovable
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191724?style=for-the-badge&logo=anthropic&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=for-the-badge&logo=heart&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsoaresf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsoaresf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
-## 💻 Most Used Technologies
+---
 
-<div align="center">
+## 🎓 Education & Certifications
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+**Degree** — Systems Analysis and Development, FIAP
 
-### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+**Recent certifications**
+- Strategy & Technological Innovation with AI and IoT — FIAP (2024)
+- Mobile Application Development — FIAP (2024)
+- Web 2.0 Development and Design — FIAP (2023)
+- Systems Analysis and Web Prototyping — FIAP (2023)
+- Vibe Coding L4: Platinum — Lovable (2026)
 
-### AI & APIs
-![Anthropic](https://img.shields.io/badge/Anthropic-191724?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily-0066FF?style=for-the-badge&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+---
 
 ## 🤝 Let's Connect
 
